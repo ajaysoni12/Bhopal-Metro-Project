@@ -11,5 +11,6 @@
 ![Screenshot (2032)](https://user-images.githubusercontent.com/106678641/220843800-d0d00596-48f2-46c1-91fe-cbbe69b37af3.png)
 
 <h3> Output ScrenShots </h3> 
-![Screenshot (2027)](https://user-images.githubusercontent.com/106678641/220843882-e57ac9e6-1dcc-4afb-b2c1-c7001a66cb65.png)
+![Screenshot (2027)](https://user-images.githubusercontent.com/106678641/220844451-f4d6a0e5-acc1-4d64-9839-6d2b70834439.png)
 <h4> you can try for other input test cases </h4> 
+
